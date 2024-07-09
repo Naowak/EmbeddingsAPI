@@ -32,3 +32,5 @@ def embed_texts():
 
 if __name__ == '__main__':
         app.run(debug=True)
+
+        
